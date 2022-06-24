@@ -9,4 +9,8 @@ public class HelloWorld {
 		String Msg = "Hey now";
 		System.out.println(Msg);
 	}
+	public static void whatFor()	{
+		String msg = "stringArg, what for?";
+		System.out.println(msg);
+	}
 }
